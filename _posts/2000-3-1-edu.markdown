@@ -1,0 +1,12 @@
+---
+layout: default
+img: bachelor.jpeg
+category: Education
+title: Bachelor's in Buccaneer
+description: |
+---
+
+* __2003 - 2006__
+* Tortuga Academy - East Indies
+* Advisor: Run
+* Scholarship from: Pirates association. S.A

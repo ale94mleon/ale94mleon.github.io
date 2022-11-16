@@ -1,0 +1,12 @@
+---
+layout: default
+img: phd.png
+category: Education
+title: PhD in Lord Pirat
+description: 2014-2018
+---
+
+* __2011 - 2017__
+* A description of your piracy
+* Advisor: Keith Richards
+* Scholarship from: Pirates association

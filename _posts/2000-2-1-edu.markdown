@@ -1,0 +1,12 @@
+---
+layout: default
+img: master.gif
+category: Education
+title: Master's in piracy
+description: |
+---
+
+* __2006 - 2007__
+* A description of your piracy
+* Advisor: Captain Barbosa
+* Scholarship from: Pirates association

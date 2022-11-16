@@ -1,12 +1,12 @@
 ---
 layout: default
-img: master.gif
+img: oncoming.jpg
 category: Education
-title: Master's in piracy
+title: "Master ..."
 description: |
 ---
 
-* __2006 - 2007__
-* A description of your piracy
-* Advisor: Captain Barbosa
-* Scholarship from: Pirates association
+* __2018 - 2020__
+* A description of my master
+* Advisor: [Ulises Jáuregui Haza](https://scholar.google.com/citations?user=k_oPGmIAAAAJ&hl=es) and [Zalua Rodríguez Riera](https://scholar.google.com.cu/citations?user=yW7zAqwAAAAJ&hl=es)
+* Scholarship from: ...

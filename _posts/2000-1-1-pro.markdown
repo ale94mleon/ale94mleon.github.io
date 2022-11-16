@@ -1,9 +1,9 @@
 ---
 layout: default
-img: project1.gif
+img: moldrug.gif
 category: Projects
-title: "Run Jack run"
-description: running for your live
+title: "MolDrug"
+description: |
 ---
 
-* __Run Jack run__ is a collection of reason to stay motivate during exercises. More infomation here: [run-jack-run](https://jack-sparrow.github.io/run-jack-run/).
+* __MolDrug__ (from Molecule to Drug) is a python package for drug-oriented optimization on the chemical space. More information [here](https://moldrug.readthedocs.io/en/latest/).

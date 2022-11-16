@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://jack-sparrow.github.io/
-title: Jack Sparrow
-email: jack-sparrow@gmail.com
-author: Jack Sparrow
-description: "Captain of the Pearl"
+url: https://ale94mleon.github.io/
+title: Alejandro Martínez León
+email: ale94mleon@gmail.com
+author: Alejandro Martínez León
+description: "PhD student of Biophysics | MSCA"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,17 +26,17 @@ plugins:
 social:
   - icon: github
     title: github
-    url: https://github.com/jack-sparrow
+    url: https://github.com/ale94mleon
   - icon: envelope-o
     title: email
-    url: mailto:jack-sparrow@gmail.com
+    url: mailto:ale94mleon@gmail.com
   - icon: linkedin
     title: linkedin
-    url: https://www.linkedin.com/in/jack-sparrow/
+    url: https://www.linkedin.com/in/alejandro-mart%C3%ADnez-le%C3%B3n-37abba198/
   - icon: file-pdf-o
     title: CV
     url: img/CV.pdf
-  - icon: twitter
-    title: twitter
-    url: https://twitter.com/jack-sparrow
+  # - icon: twitter
+  #   title: twitter
+  #   url: https://twitter.com/jack-sparrow
 

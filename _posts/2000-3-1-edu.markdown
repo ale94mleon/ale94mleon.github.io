@@ -1,12 +1,12 @@
 ---
 layout: default
-img: bachelor.jpeg
+img: oncoming.jpg
 category: Education
-title: Bachelor's in Buccaneer
+title: "Bachelor in Radiochemistry ..."
 description: |
 ---
 
 * __2003 - 2006__
-* Tortuga Academy - East Indies
-* Advisor: Run
-* Scholarship from: Pirates association. S.A
+* University of Havana
+* Advisor: ...
+* Scholarship from: ...

@@ -1,12 +1,12 @@
 ---
 layout: default
-img: phd.png
+img: oncoming.jpg
 category: Education
-title: PhD in Lord Pirat
-description: 2014-2018
+title: "PhD ..."
+description: |
 ---
 
-* __2011 - 2017__
-* A description of your piracy
-* Advisor: Keith Richards
-* Scholarship from: Pirates association
+* __2020 - Today__
+* A description of my PhD
+* Advisor: [Jochen S. Hub](https://biophys.uni-saarland.de/jochen.html)
+* Scholarship from: [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/)

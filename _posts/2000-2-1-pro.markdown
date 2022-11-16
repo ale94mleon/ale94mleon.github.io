@@ -1,9 +1,0 @@
----
-layout: default
-img: project2.webp
-category: Projects
-title: "Parley"
-description: Always try to speak
----
-
-* __Parley__ checklist of what to do and not to do during negotiations. More information here: [Parley](https://github.com/jack-sparrow/Parley).

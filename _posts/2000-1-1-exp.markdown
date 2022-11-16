@@ -1,12 +1,10 @@
 ---
 layout: default
-img: black-pearl.jpg
+img: oncoming.jpg
 category: Experiences
-title: "Postdoctoral Researcher in navigation license"
+title: "Assistant professor"
 description: |
 ---
 
-* __2018 – Today__
-* Caribbean sea.
-* Position: Captain of the Black Pearl
-* Activities: Wondering around. Please, see more information [here](https://en.wikipedia.org/wiki/Black_Pearl).
+* __2018 – 2020__
+* ...

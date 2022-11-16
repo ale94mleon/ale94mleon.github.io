@@ -1,12 +1,10 @@
 ---
 layout: default
-img: exp1.jpeg
+img: oncoming.jpg
 category: Experiences
-title: "Research Fellow"
+title: "BI"
 description: |
 ---
 
-* __2017 – 2018__
-* Caribbean sea.
-* Position: Freelance Pirate
-* Activities: Wondering around. Please, see more information [here](https://en.wikipedia.org/wiki/Jack_Sparrow).
+* __07.2022 – 11.2022__
+* Info here

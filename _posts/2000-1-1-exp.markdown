@@ -1,10 +1,12 @@
 ---
 layout: default
-img: oncoming.jpg
+img: instec.png
 category: Experiences
 title: "Assistant professor"
 description: |
 ---
 
 * __2018 – 2020__
-* ...
+* Higher Institute of Technologies and Applied Sciences, University of Havana, Cuba
+* Position: Instructor professor
+* I worked in the disciplines of Thermodynamic, Quantum Chemistry, Nuclear Chemistry. Here I prepared and gave lectures under the supervision of the main professors. I also supervised practical lessons and lab sections.

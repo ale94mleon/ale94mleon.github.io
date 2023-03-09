@@ -1,12 +1,11 @@
 ---
 layout: default
-img: oncoming.jpg
+img: master.png
 category: Education
 title: "Master ..."
 description: |
 ---
 
 * __2018 - 2020__
-* A description of my master
+* My master in radiochemistry was focused in computational methods. We combined chemoinformatic tools and quantum chemistry techniques. At the end, we discovered possible inhibitors of AT1R that could also be used as positron emission tomographic radio-pharmaceuticals labeled with F18.
 * Advisor: [Ulises Jáuregui Haza](https://scholar.google.com/citations?user=k_oPGmIAAAAJ&hl=es) and [Zalua Rodríguez Riera](https://scholar.google.com.cu/citations?user=yW7zAqwAAAAJ&hl=es)
-* Scholarship from: ...

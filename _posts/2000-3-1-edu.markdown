@@ -1,12 +1,12 @@
 ---
 layout: default
-img: oncoming.jpg
+img: bachelor.png
 category: Education
 title: "Bachelor in Radiochemistry ..."
 description: |
 ---
 
-* __2003 - 2006__
-* University of Havana
-* Advisor: ...
-* Scholarship from: ...
+* __2013 - 2018__
+* During my degree in radiochemistry (BAC+5)
+* Higher Institute of Technologies and Applied Sciences, University of Havana, Cuba
+* Advisor: [Ulises Jáuregui Haza](https://scholar.google.com/citations?user=k_oPGmIAAAAJ&hl=es) and [Zalua Rodríguez Riera](https://scholar.google.com.cu/citations?user=yW7zAqwAAAAJ&hl=es)

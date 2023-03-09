@@ -6,4 +6,4 @@ title: "TOFF"
 description: |
 ---
 
-* __TOFF__ (Topologies from OpenFF) is a python package to get topologies from the [OpenFF](https://openforcefield.org/) initiative.
+* [TOFF](https://toff.readthedocs.io/en/latest/) (Topologies from OpenFF) is a python package to get topologies from the [OpenFF](https://openforcefield.org/) initiative.

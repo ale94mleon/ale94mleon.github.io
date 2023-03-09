@@ -6,4 +6,4 @@ title: "MolDrug"
 description: |
 ---
 
-* __MolDrug__ (from Molecule to Drug) is a python package for drug-oriented optimization on the chemical space. More information [here](https://moldrug.readthedocs.io/en/latest/).
+* [MolDrug](https://moldrug.readthedocs.io/en/latest/) (from Molecule to Drug) is a python package for drug-oriented optimization on the chemical space.

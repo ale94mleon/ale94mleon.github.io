@@ -2,11 +2,12 @@
 layout: default
 img: bachelor.png
 category: Education
-title: "Bachelor in Radiochemistry ..."
+title: "Bachelor in Radiochemistry"
 description: |
 ---
 
 * __2013 - 2018__
 * During my degree in radiochemistry (BAC+5)
-* Higher Institute of Technologies and Applied Sciences, University of Havana, Cuba
+* Higher Institute of Technologies and Applied Sciences, University of Havana, Cuba.
+* During my Bachelor's program in radiochemistry, I gained proficiency in a range of scientific techniques, including the use of advanced computational tools like Density Functional Theory (DFT) and chemoinformatics methods. My research project focused on developing new positron emission tomography (PET) radiopharmaceuticals that could help diagnose and monitor cardiovascular and oncoproliferative diseases. Specifically, I evaluated the stability and reactivity of different compounds using DFT calculations, and identified the most promising candidates for further study. I also had the opportunity to present my research at several conferences and graduated first in my class with honors.
 * Advisor: [Ulises Jáuregui Haza](https://scholar.google.com/citations?user=k_oPGmIAAAAJ&hl=es) and [Zalua Rodríguez Riera](https://scholar.google.com.cu/citations?user=yW7zAqwAAAAJ&hl=es)

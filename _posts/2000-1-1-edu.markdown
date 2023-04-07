@@ -7,6 +7,6 @@ description: |
 ---
 
 * __2020 - Today__
-* A description of my PhD
+* This project is part of the Innovative Training Networks of the Marie Skłodowska-Curie measure (ITN- ETN) in the Specific Program Science Excellence - Framework Program of the European Union for Research and Innovation "Horizon 2020" (GA N ° 860592, H2020-MSCA-ITN-2019). The host of this research is the Biophysics group of Prof. Jochen S. Hub of the University of Saarland, Germany. The investigation is focus in the understanding of the inhibition and permeation mechanism of Plasmodium-falciparum formate-nitrite-transporter through Molecular Dynamic simulations and other computational techinques.
 * Advisor: [Jochen S. Hub](https://biophys.uni-saarland.de/jochen.html)
 * Scholarship from: [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/)

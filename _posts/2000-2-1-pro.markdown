@@ -7,3 +7,11 @@ description: |
 ---
 
 * [TOFF](https://toff.readthedocs.io/en/latest/) (Topologies from OpenFF) is a python package to get topologies from the [OpenFF](https://openforcefield.org/) initiative.
+
+```python
+from toff import Parameterize
+from rdkit import Chem
+
+parameterizer = Parameterize()
+parameterizer(Chem.MolFromSmiles('CCO'))
+```

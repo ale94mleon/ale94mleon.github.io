@@ -7,4 +7,5 @@ description: |
 ---
 
 * __07.2022 – 11.2022__
-* Info here
+* Working on the lead generation and optimization on the drug design phase from an *in silico* perspective.
+* Advisor: [Aniket Magarkar](https://scholar.google.com/citations?user=h_BPJhIAAAAJ&hl=es&oi=ao).

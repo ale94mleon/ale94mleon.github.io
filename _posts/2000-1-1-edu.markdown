@@ -1,6 +1,6 @@
 ---
 layout: default
-img: oncoming.jpg
+img: PhD.png
 category: Education
 title: "PhD ..."
 description: |

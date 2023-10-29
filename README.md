@@ -6,6 +6,8 @@ Original code from <a href="https://github.com/pablo-arantes/pabloarantes.github
 
 ## Installation instruction to run locally and edit
 
+### Linux
+
 Run the following. It was taken from [askubuntu](https://askubuntu.com/questions/769623/how-to-downgrade-ruby-on-ubuntu).
 
 ```bash
@@ -28,6 +30,20 @@ rbenv global 2.7.0
 ruby -v
 
 gem install jekyll bundler
+```
+
+### MacOS
+
+```bash
+brew install rbenv
+
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshrc
+echo 'eval "$(rbenv init -)"' >> ~/.zshrc
+exec $SHELL
+
+rbenv install 3.0.6
+rbenv global 3.0.6
+ruby -v
 ```
 
 ## Building your site locally
